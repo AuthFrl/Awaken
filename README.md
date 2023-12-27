@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Awaken: A Mental Health Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Awaken Logo](link_to_logo.png)
 
-## Available Scripts
+Welcome to Awaken, a mental health website designed to provide support, resources, and tools for individuals seeking to enhance their mental well-being. This project is built using React and incorporates libraries such as `react`, `keep-react`, and `next-ui` to deliver a seamless and responsive user experience.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Awaken is a platform dedicated to promoting mental health and well-being. It offers a range of features and resources to help users on their journey towards improved mental health. The website is built with React, a popular JavaScript library for building user interfaces, and leverages the capabilities of `keep-react` and `next-ui` to enhance the overall user experience.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Interactive Tools:** Engage with interactive tools designed to facilitate self-reflection and emotional well-being.
 
-### `npm run build`
+- **Resource Library:** Access a comprehensive library of articles, videos, and other resources related to mental health and self-care.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Community Support:** Connect with a supportive community through forums, discussions, and group activities.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Personalized Dashboard:** Customize your experience with a personalized dashboard that tracks your progress and suggests relevant content.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Responsive Design:** Enjoy a seamless experience across various devices, ensuring accessibility for all users.
 
-### `npm run eject`
+## Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Follow these steps to set up Awaken locally on your machine:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repository: `git clone https://github.com/your-username/awaken.git`
+2. Navigate to the project directory: `cd awaken`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Visit the deployed website or the local development server to explore the features and resources provided by Awaken. Customize your profile, engage with the community, and make the most of the tools available to support your mental well-being.
 
-## Learn More
+## Technologies Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React
+- Keep React
+- Next UI
+- (Add any other relevant technologies)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+We welcome contributions from the community! If you'd like to contribute to Awaken, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
+This project is licensed under the [MIT License](LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to reach out to us with any questions or feedback. Thank you for being a part of the Awaken community! 🌟
