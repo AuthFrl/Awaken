@@ -34,7 +34,7 @@ Awaken is a platform dedicated to promoting mental health and well-being. It off
 
 Follow these steps to set up Awaken locally on your machine:
 
-1. Clone the repository: `git clone https://github.com/your-username/awaken.git`
+1. Clone the repository: `git clone https://github.com/AuthFrl/awaken.git`
 2. Navigate to the project directory: `cd awaken`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
